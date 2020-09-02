@@ -76,7 +76,7 @@ cloudbees-slack-integration:
     slackWorkspace: "T010A455W77"
     users:
     - id: "seacephos"
-      jenkins: "cephosea"
+      jenkins: "seacephos"
       optedIn: true
       scmId: "seacephos"
       slack: "mark.hollingsworth@crowdstrike.com"
